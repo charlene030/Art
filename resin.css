@@ -69,6 +69,7 @@ body{
     }
 }
 .shopping{
+    z-index:10;
     font-size: 10px;
     letter-spacing: 2px;
     display: flex;
@@ -147,7 +148,7 @@ body{
 }
 .add-cart{
     width: 100%;
-    z-index:10;
+    
     display: flex;
     justify-content: center;
     position: absolute;
