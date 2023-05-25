@@ -147,6 +147,7 @@ body{
 }
 .add-cart{
     width: 100%;
+    z-index:10;
     display: flex;
     justify-content: center;
     position: absolute;
